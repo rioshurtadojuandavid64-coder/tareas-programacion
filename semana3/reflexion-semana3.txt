@@ -1,0 +1,2 @@
+Reflexión semana 3:
+Aprendí que Git permite guardar versiones de mi proyecto y volver atrás si me equivoco. También entendí que los commits son como fotos de los cambios y que el push sirve para subir todo a GitHub.
